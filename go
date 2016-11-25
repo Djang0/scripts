@@ -7,7 +7,7 @@ do
 	"git@crios-linux" \
 	"administrator@172.31.6.51" \
 	"phoenix@crios-linux" \
-	"osmc@lreenaers.ddns.net" \
+	"osmc@lreenaers.ddns.net -p 4456" \
 	"osmc@192.168.1.63"\
   "root@buggenie.belgomedia.local"
 	do
