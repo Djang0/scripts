@@ -1,0 +1,7 @@
+#!/bin/sh
+if [ -z "$1" ];
+then
+  echo "please specify a pattern for searching"
+else
+  git log --all --full-history -- **/$1.*
+fi
