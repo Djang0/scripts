@@ -8,8 +8,8 @@ do
 	"phoenix@crios-linux" \
 	"administrator@activemq.belgomedia.local" \
 	"administrator@solr.belgomedia.local" \
-	"administrator@test.occ.telepro.be" \
-	"administrator@test.sso.telepro.be" \
+	"ladministrator@test.occ.telepro.be" \
+	"ladministrator@test.sso.telepro.be" \
 	"osmc@lreenaers.ddns.net" \
 	"osmc@192.168.1.63"\
 	"root@buggenie.belgomedia.local"
