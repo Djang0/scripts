@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 PS3='Choose action (or ctrl-c to quit): '
 select type in "ssh" "sftp" "ssh-copy-id" "quit"
 do
