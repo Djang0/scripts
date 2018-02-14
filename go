@@ -9,6 +9,7 @@ do
 	"administrator@activemq.belgomedia.local" \
 	"administrator@solr.belgomedia.local" \
 	"ladministrator@test.occ.telepro.be" \
+	"ladministrator@clicktrax.telepro.be" \
 	"ladministrator@test.sso.telepro.be" \
 	"osmc@lreenaers.ddns.net" \
 	"osmc@192.168.1.63"\
