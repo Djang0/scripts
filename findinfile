@@ -1,0 +1,3 @@
+#!/bin/bash
+# Find files containing $2 under $1 directory
+grep -rnw '$1' -e '$2'
