@@ -11,6 +11,8 @@ do
 	"ladministrator@test.occ.telepro.be" \
 	"ladministrator@clicktrax.belgomedia.local" \
 	"ladministrator@test.sso.telepro.be" \
+	"ladministrator@occ.telepro.be"\
+	"ladministrator@sso.telepro.be"\
 	"ladministrator@bds-ws.belgomedia.local" \
 	"osmc@lreenaers.ddns.net" \
 	"osmc@192.168.1.63"\
